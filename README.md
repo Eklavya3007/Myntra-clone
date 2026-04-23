@@ -36,8 +36,6 @@ This is a front-end clone of the Myntra website built using HTML, CSS, and JavaS
 - Payment gateway integration
 - Advanced cart and wishlist features
 
-## 🤝 Contributing
-Feel free to fork this repository and contribute by submitting a pull request.
 
-## 📜 License
-This project is for educational purposes only.
+
+
